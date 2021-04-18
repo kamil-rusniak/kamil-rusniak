@@ -3,8 +3,8 @@
 I'm a Front End Web Developer 
 - Learning and improving everyday
 - Enjoy doing web design
-- Looking for work (permanent or freelance) 
- <br/>
+- Available for work (freelance or permanent)
+- Planning to study Computer Science at university
 
 ---
 <br/>
@@ -16,8 +16,6 @@ I'm a Front End Web Developer
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo icon" height=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD logo icon" height=50>
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo icon" height=50>
-
-<br/>
 
 ---
 <br/>
