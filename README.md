@@ -7,7 +7,7 @@ I'm a Front End Web Developer
  <br/>
 
 ---
-
+<br/>
 
 ## My skills
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo icon" height=50><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo icon" height=50>
@@ -20,7 +20,7 @@ I'm a Front End Web Developer
 <br/>
 
 ---
-
+<br/>
 
 ## My Portfolio <a href="https://kamilrusniak.com">kamilrusniak.com</a>
 <a href="https://kamilrusniak.com"><img width='600px' src="https://i.imgur.com/abGk5Q2.png" alt="Preview of my portfolio website" /></a>
