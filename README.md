@@ -1,9 +1,9 @@
 ## Hi there 👋 I'm Kamil
 
-I'm a Front End Web Developer 
-- Learning and improving everyday
-- Exploring and enjoying web design
-- Planning to study Computer Science at university
+I'm a Front End Web Developer, currently learning advanced JavaScript and working on different projects.
+- also enjoying web design
+- learning and improving everyday
+- planning to study Computer Science at university
 
 ---
 <br/>
