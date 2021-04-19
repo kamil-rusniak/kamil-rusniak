@@ -3,7 +3,6 @@
 I'm a Front End Web Developer 
 - Learning and improving everyday
 - Exploring and enjoying web design
-- Available for work (freelance or permanent)
 - Planning to study Computer Science at university
 
 ---
