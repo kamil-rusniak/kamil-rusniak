@@ -20,7 +20,7 @@ I'm a Front End Web Developer, currently building my portfolio and making JavaSc
 <br/>
 
 ## My Portfolio <a href="https://kamilrusniak.com">kamilrusniak.com</a>
-<a href="https://kamilrusniak.com"><img width='600px' src="https://i.imgur.com/abGk5Q2.png" alt="Preview of my portfolio website" /></a>
+<a href="https://kamilrusniak.com"><img width='600px' src="https://i.imgur.com/lE76Q5d.png" alt="Preview of my portfolio website" /></a>
 <br/>
 
 
