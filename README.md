@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Kamil
 
-I'm a Front End Web Developer, currently building my portfolio and making JavaScript projects.
-- also enjoying web design
+I'm a Front End Web Developer, currently working on JavaScript projects and looking for a job
+- also playing with some web design
 - learning and improving everyday
 - planning to study Computer Science at university
 
