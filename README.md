@@ -3,7 +3,6 @@
 I'm a Front End Web Developer, currently working on JavaScript projects and looking for a job
 - also playing with some web design
 - learning and improving everyday
-- planning to study Computer Science at university
 
 ---
 <br/>
