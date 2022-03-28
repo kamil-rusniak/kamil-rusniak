@@ -1,9 +1,7 @@
 ## Hi there 👋 I'm Kamil
 
 I'm a Front End Web Developer, currently working on JavaScript projects and looking for a job
-- also playing with some web design
-- learning and improving everyday
-- right now trying react, tailwind and styled components
+
 ---
 <br/>
 
