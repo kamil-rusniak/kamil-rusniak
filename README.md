@@ -1,28 +1,27 @@
 ## Hi there 👋 I'm Kamil
 
-I'm a Front End Web Developer, currently working on JavaScript projects and looking for a job
+I am a Frontend developer building e-commerce websites on Shopify. In my spare time I'm learning and creating full-stack web apps.
 
----
 <br/>
 
-## My skills
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo icon" height=50><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo icon" height=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo icon" height=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" height=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git logo icon" height=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/xd/xd-plain.svg" alt="Adobe XD logo icon" height=50>
-<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma logo icon" height=50>
+## Tech I've been working with recently
 
----
+<div>
+<a href="https://www.typescriptlang.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript logo icon" height=50></a>
+<a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo icon" height=50></a>
+<a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js logo icon" height=50></a>
+<a href="https://prisma.io"><img src="https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.svg" height="50" alt="Prisma logo icon" /></a>
+<a href="https://sass-lang.com/"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="Sass icon" height=50></a>
+</div>
+
+<br/>
+
 <br/>
 
 ## My Portfolio <a href="https://kamilrusniak.com">kamilrusniak.com</a>
+
 <a href="https://kamilrusniak.com"><img width='600px' src="https://i.imgur.com/lE76Q5d.png" alt="Preview of my portfolio website" /></a>
 <br/>
-
-
-
-
 
 <!--
 **kamil-rusniak/kamil-rusniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -30,6 +29,7 @@ I'm a Front End Web Developer, currently working on JavaScript projects and look
 [![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-rusniak&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Kamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamil-rusniak&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+<a href=""><img src="" alt=" logo icon" height=50></a>
 
 Here are some ideas to get you started:
 
