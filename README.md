@@ -1,6 +1,6 @@
 ## Hi there 👋 I'm Kamil
 
-I am a Frontend developer building e-commerce websites on Shopify. In my spare time I'm learning and creating full-stack web apps.
+I am a Frontend developer building e-commerce websites on Shopify. In my spare time I'm learning and building full-stack web apps.
 
 <br/>
 
