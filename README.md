@@ -18,10 +18,7 @@ I am a Frontend developer building e-commerce websites on Shopify. In my spare t
 
 <br/>
 
-## My Portfolio <a href="https://kamilrusniak.com">kamilrusniak.com</a>
 
-<a href="https://kamilrusniak.com"><img width='600px' src="https://i.imgur.com/lE76Q5d.png" alt="Preview of my portfolio website" /></a>
-<br/>
 
 <!--
 **kamil-rusniak/kamil-rusniak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
