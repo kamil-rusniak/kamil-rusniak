@@ -11,7 +11,7 @@ I am a Frontend developer building e-commerce websites on Shopify. In my spare t
 <a href="https://react.dev/"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React logo icon" height=50></a>
 <a href="https://nextjs.org/"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js logo icon" height=50></a>
 <a href="https://prisma.io"><img src="https://github.com/prisma/presskit/raw/main/Assets/Prisma-DarkSymbol.svg" height="50" alt="Prisma logo icon" /></a>
-<a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="Tailwind CSS icon" height=50></a>
+<a href="https://tailwindcss.com"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS icon" height=50></a>
 </div>
 
 <br/>
